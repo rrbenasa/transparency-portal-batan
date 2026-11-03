@@ -5,10 +5,10 @@
 import { defineConfig } from './src/config';
 
 export default defineConfig({
-  id: "balete",
+  id: "batan",
   kind: "municipality",
-  name: "Municipality of Balete",
-  shortName: "Balete",
+  name: "Municipality of Batan",
+  shortName: "Batan",
   operator: {
     name: "MOVERS Ph"
   },
@@ -16,8 +16,8 @@ export default defineConfig({
     offices: [],
     places: [
       {
-        label: "Balete",
-        q: "Balete Aklan",
+        label: "Batan",
+        q: "Batan Aklan",
         region: "VI"
       }
     ],
